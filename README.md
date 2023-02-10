@@ -7,6 +7,8 @@ Overall theme of the app is wood! Currently, code is saved on private github rep
 
 This app is to help Korean English learners to have better understanding of American culture and language for daily life or conversation.
 
+This app can be found on google store: MoM, Let's learn English.
+
 Available Functionalities:
 
 - Splash Screen:
