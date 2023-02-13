@@ -9,6 +9,8 @@ This app is to help Korean English learners to have better understanding of Amer
 
 This app can be found on google store: MoM, Let's learn English.
 
+Google store link: https://play.google.com/store/apps/details?id=com.hiri.englishlearner
+
 Available Functionalities:
 
 - Splash Screen:
