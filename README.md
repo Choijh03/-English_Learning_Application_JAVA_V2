@@ -11,6 +11,8 @@ This app can be found on google store: MoM, Let's learn English.
 
 Google store link: https://play.google.com/store/apps/details?id=com.hiri.englishlearner
 
+------------------------------------------------------------------------------------------------------------
+
 What's different from first version:
 
 -Daily used phrases are added.
@@ -20,6 +22,8 @@ What's different from first version:
 -UI design changed with additional pcitures.
 
 -Back buttons were deleted as it's unncessary.
+
+------------------------------------------------------------------------------------------------------------
 
 Available Functionalities:
 
