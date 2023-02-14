@@ -15,6 +15,8 @@ What's different from first version:
 
 -Daily used phrases are added.
 
+-Audio with English words and phrases are implemented.
+
 -UI design changed with additional pcitures.
 
 -Back buttons were deleted as it's unncessary.
